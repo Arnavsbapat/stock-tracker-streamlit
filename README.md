@@ -21,8 +21,8 @@ A simple web app built with [Streamlit](https://streamlit.io/) and [yfinance](ht
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+      git clone https://github.com/Arnavsbapat/stock-tracker-streamlit.git
+      cd stock-tracker-streamlit
    ```
 
 2. (Optional) Create and activate a virtual environment
