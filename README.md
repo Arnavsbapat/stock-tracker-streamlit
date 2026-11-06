@@ -75,11 +75,8 @@ Streamlit will open the app in your browser at `http://localhost:8501`.
 - Compare multiple stocks
 - Error handling for invalid tickers
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-**Arnav**
-B.Tech Computer Engineering, MIT Academy of Engineering, Pune
+**Arnav Bapat**
+ 
